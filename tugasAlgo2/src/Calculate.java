@@ -23,7 +23,7 @@ public class Calculate {
         System.out.println("Total penjumlahan: " + total);
     }
 
-    public void multiplyNumbers() {
+    public void multiplyNumbers(int angka1,int angka2) {
         int result = angka1 * angka2;
         System.out.println("Perkalian: " + result);
     }
